@@ -7,7 +7,7 @@
 
 ![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaschagaz&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaschagaz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaschagaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia a dia
 
