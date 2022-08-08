@@ -6,7 +6,6 @@
 
 
 ![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaschagaz&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaschagaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia a dia
@@ -19,10 +18,8 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React_native" />
 </div>
-
-
-
-"Adicionar algum texto para compor o perfil..."
+<br/>
+"Apaixonado por tecnologia, com foco na área de web e mobile."
 
 
 ### links para contato:
