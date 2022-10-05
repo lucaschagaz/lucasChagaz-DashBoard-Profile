@@ -2,9 +2,9 @@
 
 ### Olá eu sou o Lucas chagaz 👋
 
-
-
-
+<p> Iniciei minha carreira acadêmica como estudante de licenciatura em matemática, a área de exatas e lógica sempre me chamou atenção, porém o ambiente escolar não me era convidativo, foi quando a programação retornou a minha vida e resolvi agarra-la.</p>
+<p> Atualmente sou desenvolvedor web e móbile,minha stack principal é o react e react native e trabalho todos os dias para aperfeiçoar e me manter informado  com as práticas mais atuais do mercado!
+</p>
 
 ![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaschagaz&show_icons=true&theme=dracula)
 
